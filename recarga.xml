@@ -1,0 +1,1886 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>fa8359af7beeec6ebf6e78259633a20565a87568</recordid>
+    <fields>
+      <latitud>40.993718</latitud>
+      <ultimaactualizacion>2014-06-11</ultimaactualizacion>
+      <localidad0>1179298378820</localidad0>
+      <identificador>1284332152982</identificador>
+      <datospersonales>AUTO SALAMANCA S.A.</datospersonales>
+      <calle>Carretera Valladolid, 93-111</calle>
+      <localidad>Polígono Industrial los Villares</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284332152982/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>40.993718</geolocalizacion>
+      <geolocalizacion>-5.6381488</geolocalizacion>
+      <nombre_del_organismo>5 Puntos de recarga de uso privado tipo Mennekes</nombre_del_organismo>
+      <codigopostal>37184</codigopostal>
+      <longitud>-5.6381488</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-5.6381488</coordinates>
+      <coordinates>40.993718</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>50139b424ce596498f2d0f4994a65b0eafb06350</recordid>
+    <fields>
+      <latitud>41.618941</latitud>
+      <ultimaactualizacion>2014-06-19</ultimaactualizacion>
+      <localidad0>1179469311668</localidad0>
+      <identificador>1284187799641</identificador>
+      <datospersonales>Agencia de Innovación y Desarrollo Económico de Valladolid</datospersonales>
+      <calle>C/Vega Sicilia, 2</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284187799641/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.618941</geolocalizacion>
+      <geolocalizacion>-4.748048</geolocalizacion>
+      <nombre_del_organismo>2 puntos de recarga públicos operativos tipo Schuko y Mennekes</nombre_del_organismo>
+      <codigopostal>47008</codigopostal>
+      <longitud>-4.748048</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.748048</coordinates>
+      <coordinates>41.618941</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>b65742459bfa24c0f876b6edacab228c5b4f3934</recordid>
+    <fields>
+      <latitud>40.9641127</latitud>
+      <ultimaactualizacion>2014-06-11</ultimaactualizacion>
+      <localidad0>1179298323820</localidad0>
+      <identificador>1284332135386</identificador>
+      <datospersonales>Hospital de Salamanca</datospersonales>
+      <calle>Paseo de San Vicente, 58</calle>
+      <localidad>Salamanca</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284332135386/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>40.9641127</geolocalizacion>
+      <geolocalizacion>-5.6730016</geolocalizacion>
+      <nombre_del_organismo>3 Puntos de recarga de uso público 2 Schuko y 1 Mennekes</nombre_del_organismo>
+      <codigopostal>37007</codigopostal>
+      <longitud>-5.6730016</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-5.6730016</coordinates>
+      <coordinates>40.9641127</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>ffd1deb3443a5ea10866059337463bd40b1cff89</recordid>
+    <fields>
+      <latitud>40.952922</latitud>
+      <ultimaactualizacion>2014-09-03</ultimaactualizacion>
+      <localidad0>1179298323820</localidad0>
+      <identificador>1284362845143</identificador>
+      <datospersonales>Parador de Salamanca</datospersonales>
+      <calle>C/ Teso de la Feria, 27</calle>
+      <localidad>Salamanca</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284362845143/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>40.952922</geolocalizacion>
+      <geolocalizacion>-5.672778</geolocalizacion>
+      <nombre_del_organismo>1 punto de recarga 400V/32A</nombre_del_organismo>
+      <codigopostal>37008</codigopostal>
+      <longitud>-5.672778</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-5.672778</coordinates>
+      <coordinates>40.952922</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>e57af6a005cb4a01d6bff62ca53622a12d520258</recordid>
+    <fields>
+      <latitud>42.007306</latitud>
+      <ultimaactualizacion>2014-05-23</ultimaactualizacion>
+      <localidad0>1179298104011</localidad0>
+      <identificador>1284195514613</identificador>
+      <calle>Paseo de la Dársena del Canal</calle>
+      <localidad>Palencia</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284195514613/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.007306</geolocalizacion>
+      <geolocalizacion>-4.54029</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público operativo tipo Schuko marca Ingeteam</nombre_del_organismo>
+      <codigopostal>34005</codigopostal>
+      <longitud>-4.54029</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.54029</coordinates>
+      <coordinates>42.007306</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>61838206e0fcb0cc2d1778733a78b650a972056e</recordid>
+    <fields>
+      <latitud>41.513496146740735</latitud>
+      <ultimaactualizacion>2013-06-26</ultimaactualizacion>
+      <localidad0>1179469329741</localidad0>
+      <identificador>1284275371176</identificador>
+      <datospersonales>Parking Campus Viriato</datospersonales>
+      <calle>Avda. Cardenal Cisneros 34</calle>
+      <localidad>Zamora</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284275371176/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.5134961467</geolocalizacion>
+      <geolocalizacion>-5.73395937681</geolocalizacion>
+      <nombre_del_organismo>1 punto tipo Mennekes de Red de Recarga de Vehículo Eléctrico USAL (de uso exclusivo para la comunidad universitaria)</nombre_del_organismo>
+      <codigopostal>49022</codigopostal>
+      <longitud>-5.733959376811981</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-5.73395937681</coordinates>
+      <coordinates>41.5134961467</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>167b1a0897262dd510d8571f787da6e3eb77a777</recordid>
+    <fields>
+      <latitud>40.982846</latitud>
+      <ultimaactualizacion>2014-06-18</ultimaactualizacion>
+      <identificador>1284275367080</identificador>
+      <datospersonales>Campus Claretianos</datospersonales>
+      <calle>Facultad de Psicología - Bellas Artes</calle>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284275367080/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>40.982846</geolocalizacion>
+      <geolocalizacion>-5.662165</geolocalizacion>
+      <nombre_del_organismo>Un punto tipo Mennekes de Red de Recarga de Vehículo Eléctrico USAL (de uso exclusivo para la comunidad universitaria)</nombre_del_organismo>
+      <codigopostal>37008</codigopostal>
+      <longitud>-5.662165</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-5.662165</coordinates>
+      <coordinates>40.982846</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>b7425d2f9c8d5110cfc1e1d7b1177205b445b207</recordid>
+    <fields>
+      <latitud>40.921526</latitud>
+      <ultimaactualizacion>2014-09-03</ultimaactualizacion>
+      <localidad0>1179298564796</localidad0>
+      <identificador>1284362869681</identificador>
+      <datospersonales>Centro Comercial Eroski Luz de Castilla</datospersonales>
+      <calle>C/Guadarrama</calle>
+      <localidad>Segovia</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284362869681/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>40.921526</geolocalizacion>
+      <geolocalizacion>-4.112386</geolocalizacion>
+      <nombre_del_organismo>4 Puntos de recarga de uso público 2 Schuko y 2 Mennekes</nombre_del_organismo>
+      <codigopostal>40006</codigopostal>
+      <longitud>-4.112386</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.112386</coordinates>
+      <coordinates>40.921526</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>d59876a1f0143a8f715821874eca5dfb86904c28</recordid>
+    <fields>
+      <latitud>41.64293273605218</latitud>
+      <ultimaactualizacion>2012-09-27</ultimaactualizacion>
+      <identificador>1284236307225</identificador>
+      <datospersonales>Carrefour Planet</datospersonales>
+      <calle>Avda. del Real Valladolid, 5</calle>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284236307225/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.6429327361</geolocalizacion>
+      <geolocalizacion>-4.76059913635</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público operativo</nombre_del_organismo>
+      <codigopostal>47014</codigopostal>
+      <longitud>-4.760599136352539</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.76059913635</coordinates>
+      <coordinates>41.6429327361</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>9c41c54d46c0899d8549b0f1ac1705b27f13214a</recordid>
+    <fields>
+      <latitud>42.01061551525235</latitud>
+      <ultimaactualizacion>2014-05-21</ultimaactualizacion>
+      <localidad0>1179298104011</localidad0>
+      <identificador>1284195514431</identificador>
+      <calle>Plazuela de la Sal</calle>
+      <localidad>Palencia</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284195514431/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.0106155153</geolocalizacion>
+      <geolocalizacion>-4.53203737736</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público operativo tipo Schuko</nombre_del_organismo>
+      <codigopostal>34002</codigopostal>
+      <longitud>-4.532037377357483</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.53203737736</coordinates>
+      <coordinates>42.0106155153</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>b282ddb70ec262c47102f40f52a7d9494fab6665</recordid>
+    <fields>
+      <latitud>41.655288</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284187837893</identificador>
+      <datospersonales>Feria de Valladolid</datospersonales>
+      <calle>Avda. Ramón Pradera, s/n</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284187837893/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.655288</geolocalizacion>
+      <geolocalizacion>-4.737762</geolocalizacion>
+      <nombre_del_organismo>2 puntos de recarga públicos operativos tipo Schuko y Mennekes</nombre_del_organismo>
+      <codigopostal>47003</codigopostal>
+      <longitud>-4.737762</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.737762</coordinates>
+      <coordinates>41.655288</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>3ccdf7d5c8e7b4fd860490eab18835e60e205632</recordid>
+    <fields>
+      <latitud>42.0015613</latitud>
+      <ultimaactualizacion>2014-06-18</ultimaactualizacion>
+      <localidad0>1179469338450</localidad0>
+      <identificador>1284334260736</identificador>
+      <datospersonales>Centros Benaventano de transportes S.A.</datospersonales>
+      <calle>Avd. de las Américas,</calle>
+      <localidad>Benavente</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284334260736/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.0015613</geolocalizacion>
+      <geolocalizacion>-5.6612152</geolocalizacion>
+      <nombre_del_organismo>4 puntos de Red de Recarga de Vehículo de uso público, 2 Schuko y 2 Mennekes</nombre_del_organismo>
+      <codigopostal>49025</codigopostal>
+      <longitud>-5.6612152</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-5.6612152</coordinates>
+      <coordinates>42.0015613</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>c30679851f3dc95109d5a98372c6cfde297438f4</recordid>
+    <fields>
+      <latitud>41.644332</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284335018221</identificador>
+      <datospersonales>Gerencia Regional de Salud. Parking exterior privado</datospersonales>
+      <calle>Paseo de Zorrilla, 1</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284335018221/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.644332</geolocalizacion>
+      <geolocalizacion>-4.734421</geolocalizacion>
+      <nombre_del_organismo>2 Puntos de recarga privados, 1 Schuko y 1 Mennekes</nombre_del_organismo>
+      <codigopostal>47007</codigopostal>
+      <longitud>-4.734421</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.734421</coordinates>
+      <coordinates>41.644332</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>4c0b3405f34b39065c9054aba1a0d21167dde06b</recordid>
+    <fields>
+      <latitud>41.648677</latitud>
+      <ultimaactualizacion>2014-09-11</ultimaactualizacion>
+      <localidad0>1179469313769</localidad0>
+      <identificador>1284335025115</identificador>
+      <datospersonales>Plaza del Milenio (Marquesina)</datospersonales>
+      <calle>C/ Francesco Scrimieri</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284335025115/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.648677</geolocalizacion>
+      <geolocalizacion>-4.735903</geolocalizacion>
+      <nombre_del_organismo>3 Puntos de recarga tipo Schuko y Mennekes</nombre_del_organismo>
+      <codigopostal>47003</codigopostal>
+      <longitud>-4.735903</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.735903</coordinates>
+      <coordinates>41.648677</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>ca1fec5746634be71634d6cdb6c7246006b81871</recordid>
+    <fields>
+      <latitud>41.607665</latitud>
+      <ultimaactualizacion>2014-09-11</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284365153337</identificador>
+      <calle>C/ Capuletti, 80</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284365153337/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.607665</geolocalizacion>
+      <geolocalizacion>-4.75018</geolocalizacion>
+      <nombre_del_organismo>1 Punto de recarga privado Mennekes</nombre_del_organismo>
+      <codigopostal>47008</codigopostal>
+      <longitud>-4.75018</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.75018</coordinates>
+      <coordinates>41.607665</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>d323da3ccd007c5005f6b7606e0d53b125ddf6bd</recordid>
+    <fields>
+      <latitud>40.6657628</latitud>
+      <ultimaactualizacion>2014-05-20</ultimaactualizacion>
+      <localidad0>1179297192941</localidad0>
+      <identificador>1284323278988</identificador>
+      <datospersonales>Parking exterior privado. Residencia Sanitaria Nuestra Señora de Sonsoles</datospersonales>
+      <calle>Avenida Juan Carlos I, s/n</calle>
+      <localidad>Ávila</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284323278988/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>40.6657628</geolocalizacion>
+      <geolocalizacion>-4.6669014</geolocalizacion>
+      <nombre_del_organismo>2 puntos de recarga, 1 Schuko y 1 Mennekes (No simultaneas)</nombre_del_organismo>
+      <codigopostal>05004</codigopostal>
+      <longitud>-4.6669014</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.6669014</coordinates>
+      <coordinates>40.6657628</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>ff6e747b53ccfae5be91ffe16e2349abde98e2aa</recordid>
+    <fields>
+      <latitud>41.66476914968983</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284204216719</identificador>
+      <calle>C/ de la Tierra (La Victoria)</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284204216719/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.6647691497</geolocalizacion>
+      <geolocalizacion>-4.73349809647</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público operativo tipo Schuko</nombre_del_organismo>
+      <codigopostal>47009</codigopostal>
+      <longitud>-4.7334980964660645</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.73349809647</coordinates>
+      <coordinates>41.6647691497</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>a92986ab0b70a4594529d7532c459707ac651c09</recordid>
+    <fields>
+      <latitud>41.7774095</latitud>
+      <ultimaactualizacion>2014-06-18</ultimaactualizacion>
+      <localidad0>1179469197921</localidad0>
+      <identificador>1284332256000</identificador>
+      <datospersonales>AUTO GONSE S.A.</datospersonales>
+      <calle>Polígono Industrial Las Casas C/F 200A</calle>
+      <localidad>Casas (Las)</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284332256000/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.7774095</geolocalizacion>
+      <geolocalizacion>-2.4839094</geolocalizacion>
+      <nombre_del_organismo>5 Puntos de recarga de uso privado tipo Mennekes</nombre_del_organismo>
+      <codigopostal>42005</codigopostal>
+      <longitud>-2.4839094</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-2.4839094</coordinates>
+      <coordinates>41.7774095</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>70eb812a2fc60ea24c70ae6ae59022327732fc57</recordid>
+    <fields>
+      <latitud>41.994115</latitud>
+      <ultimaactualizacion>2014-05-28</ultimaactualizacion>
+      <localidad0>1179298104011</localidad0>
+      <identificador>1284195514881</identificador>
+      <datospersonales>Centro Comercial Las Huertas</datospersonales>
+      <calle>Avda. de Madrid</calle>
+      <localidad>Palencia</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284195514881/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.994115</geolocalizacion>
+      <geolocalizacion>-4.520471</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público operativo tipo tipo Schuko marca Emerix</nombre_del_organismo>
+      <codigopostal>34004</codigopostal>
+      <longitud>-4.520471</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.520471</coordinates>
+      <coordinates>41.994115</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>3e57bd375b41235aaf277482eecd8febbc90bd00</recordid>
+    <fields>
+      <latitud>41.6371663</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284195446782</identificador>
+      <datospersonales>El Corte Inglés</datospersonales>
+      <calle>Paseo de Zorrilla, 130</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284195446782/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.6371663</geolocalizacion>
+      <geolocalizacion>-4.7395772</geolocalizacion>
+      <nombre_del_organismo>2 Puntos de recargas exclusivos para clientes, operativo 10:00 a 22:00</nombre_del_organismo>
+      <codigopostal>47007</codigopostal>
+      <longitud>-4.7395772</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.7395772</coordinates>
+      <coordinates>41.6371663</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>9906a3f9bd53cc42996426fee1759f169be29a9f</recordid>
+    <fields>
+      <latitud>41.6233538</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284195457678</identificador>
+      <datospersonales>Exterior Centro Comercial Vallsur</datospersonales>
+      <calle>Paseo de Zorrilla, s/n</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284195457678/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.6233538</geolocalizacion>
+      <geolocalizacion>-4.749994</geolocalizacion>
+      <nombre_del_organismo>2 Puntos de recarga públicos operativos, 1 Schuko y 1 Mennekes</nombre_del_organismo>
+      <codigopostal>47008</codigopostal>
+      <longitud>-4.749994</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.749994</coordinates>
+      <coordinates>41.6233538</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>118bd983b61e809e5a07c3853336f8a3b05ea9c5</recordid>
+    <fields>
+      <latitud>41.66085</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284204202776</identificador>
+      <datospersonales>Eylo Motor - Nissan</datospersonales>
+      <calle>Avda. de Gijón, 92</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284204202776/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.66085</geolocalizacion>
+      <geolocalizacion>-4.754148</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga privado operativo</nombre_del_organismo>
+      <codigopostal>47009</codigopostal>
+      <longitud>-4.754148</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.754148</coordinates>
+      <coordinates>41.66085</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>6c8ae726969a0cdc3c469aabfc2f42fc4975914a</recordid>
+    <fields>
+      <latitud>42.028402</latitud>
+      <ultimaactualizacion>2014-05-23</ultimaactualizacion>
+      <localidad0>1179298104011</localidad0>
+      <identificador>1284195514791</identificador>
+      <calle>C/República Dominicana</calle>
+      <localidad>Palencia</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284195514791/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.028402</geolocalizacion>
+      <geolocalizacion>-4.533417</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público operativo tipo Schuko marca Ingeteam</nombre_del_organismo>
+      <codigopostal>34002</codigopostal>
+      <longitud>-4.533417</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.533417</coordinates>
+      <coordinates>42.028402</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>55378e4f1d6f6c66dbae8484ea67057463620d42</recordid>
+    <fields>
+      <latitud>42.025748</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179298104011</localidad0>
+      <identificador>1284324625701</identificador>
+      <datospersonales>Estación de Servicio REPSOL</datospersonales>
+      <calle>Avenida de Asturias, 38</calle>
+      <localidad>Palencia</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284324625701/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.025748</geolocalizacion>
+      <geolocalizacion>-4.548834</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga privado tipo Chademo</nombre_del_organismo>
+      <codigopostal>34005</codigopostal>
+      <longitud>-4.548834</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.548834</coordinates>
+      <coordinates>42.025748</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>c24195c90eed0b8522baf581ada69910c3daa8ee</recordid>
+    <fields>
+      <latitud>40.657972</latitud>
+      <ultimaactualizacion>2014-08-27</ultimaactualizacion>
+      <localidad0>1179297192941</localidad0>
+      <identificador>1284360128493</identificador>
+      <datospersonales>Parador de Ávila. Parking exterior privado. Domicilio particular.</datospersonales>
+      <calle>C/ Marqués Canales y Chozas, 2</calle>
+      <localidad>Ávila</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284360128493/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>40.657972</geolocalizacion>
+      <geolocalizacion>-4.702047</geolocalizacion>
+      <nombre_del_organismo>1 punto de recarga</nombre_del_organismo>
+      <codigopostal>05001</codigopostal>
+      <longitud>-4.702047</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.702047</coordinates>
+      <coordinates>40.657972</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>f87aea44d2a1baff9521a31bec45bef776cc57d7</recordid>
+    <fields>
+      <latitud>41.701539</latitud>
+      <ultimaactualizacion>2014-09-01</ultimaactualizacion>
+      <localidad0>1179297611381</localidad0>
+      <identificador>1284361924162</identificador>
+      <datospersonales>Hotel Raíz Guzmán</datospersonales>
+      <calle>Carretera de Circunvalación R30, s/n</calle>
+      <localidad>Roa</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284361924162/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.701539</geolocalizacion>
+      <geolocalizacion>-3.923784</geolocalizacion>
+      <nombre_del_organismo>1 punto de recarga en parking interior privado tipo Schuko</nombre_del_organismo>
+      <codigopostal>09300</codigopostal>
+      <longitud>-3.923784</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-3.923784</coordinates>
+      <coordinates>41.701539</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>3d8ab70ae527153daae5582e2933310f413aa519</recordid>
+    <fields>
+      <latitud>42.341313</latitud>
+      <ultimaactualizacion>2014-08-29</ultimaactualizacion>
+      <localidad0>1179297447397</localidad0>
+      <identificador>1284360906066</identificador>
+      <datospersonales>Plaza Mayor</datospersonales>
+      <calle>Plaza de la Libertad, 1</calle>
+      <localidad>Burgos</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284360906066/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.341313</geolocalizacion>
+      <geolocalizacion>-3.700102</geolocalizacion>
+      <nombre_del_organismo>2 puntos de recarga en parking público soterrado tipo Schuko</nombre_del_organismo>
+      <codigopostal>09003</codigopostal>
+      <longitud>-3.700102</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-3.700102</coordinates>
+      <coordinates>42.341313</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>f4feb698009bdf510828807435db5d0f594d6499</recordid>
+    <fields>
+      <latitud>42.6094863</latitud>
+      <ultimaactualizacion>2014-05-21</ultimaactualizacion>
+      <localidad0>1179297861059</localidad0>
+      <identificador>1284204162266</identificador>
+      <datospersonales>Ente Regional de la Energía (EREN)</datospersonales>
+      <calle>Avda. Reyes Leoneses, 11</calle>
+      <localidad>León</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284204162266/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.6094863</geolocalizacion>
+      <geolocalizacion>-5.5862191</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público operativo</nombre_del_organismo>
+      <codigopostal>24008</codigopostal>
+      <longitud>-5.5862191</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-5.5862191</coordinates>
+      <coordinates>42.6094863</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>db6baa7ce4609d48436d7cc57b95efe7521927e2</recordid>
+    <fields>
+      <latitud>41.615945</latitud>
+      <ultimaactualizacion>2014-06-19</ultimaactualizacion>
+      <localidad0>1179469311668</localidad0>
+      <identificador>1284195478659</identificador>
+      <datospersonales>AUVASA</datospersonales>
+      <calle>C/ Del Bronce</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284195478659/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.615945</geolocalizacion>
+      <geolocalizacion>-4.736927</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga privado operativo tipo Schuko (exclusivo Auvasa)</nombre_del_organismo>
+      <codigopostal>47012</codigopostal>
+      <longitud>-4.736927</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.736927</coordinates>
+      <coordinates>41.615945</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>b5e893569d01c71d05b2a0cdf7801b173ce499d5</recordid>
+    <fields>
+      <latitud>41.623538</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284236303400</identificador>
+      <datospersonales>Interior Centro Comercial Valsur</datospersonales>
+      <calle>Paseo de Zorrilla, s/n</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284236303400/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.623538</geolocalizacion>
+      <geolocalizacion>-4.749994</geolocalizacion>
+      <nombre_del_organismo>2 Puntos de recarga públicos operativos Schuko y Mennekes</nombre_del_organismo>
+      <codigopostal>47008</codigopostal>
+      <longitud>-4.749994</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.749994</coordinates>
+      <coordinates>41.623538</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>11e0c5ca611099a73f46783265dff1e4b28b85a6</recordid>
+    <fields>
+      <latitud>40.664245</latitud>
+      <ultimaactualizacion>2014-05-15</ultimaactualizacion>
+      <localidad0>1179297192941</localidad0>
+      <identificador>1284323283088</identificador>
+      <datospersonales>Parking exterior privado. Agencia de Energía de Ávila</datospersonales>
+      <calle>C/Canteros, s/n Fundación Cultural Santa Teresa UNED (Colegio de Huérfanos)</calle>
+      <localidad>Ávila</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284323283088/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>40.664245</geolocalizacion>
+      <geolocalizacion>-4.699084</geolocalizacion>
+      <nombre_del_organismo>1 punto de recarga Mennekes, con cable de adaptación para Yazaki</nombre_del_organismo>
+      <codigopostal>05005</codigopostal>
+      <longitud>-4.699084</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.699084</coordinates>
+      <coordinates>40.664245</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>e2f50c8a94d4df17f06c9bdcef899ff8aeb81d09</recordid>
+    <fields>
+      <latitud>42.346924</latitud>
+      <ultimaactualizacion>2014-05-20</ultimaactualizacion>
+      <localidad0>1179297447397</localidad0>
+      <identificador>1284323321284</identificador>
+      <datospersonales>Parking privado exterior. Delegación Territorial de Burgos</datospersonales>
+      <calle>Plaza de Bilbao, 3</calle>
+      <localidad>Burgos</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284323321284/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.346924</geolocalizacion>
+      <geolocalizacion>-3.6870589</geolocalizacion>
+      <nombre_del_organismo>2 Puntos de recarga 1 Schuko y 1 Mennekes (No simultáneas)</nombre_del_organismo>
+      <codigopostal>09006</codigopostal>
+      <longitud>-3.6870589</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-3.6870589</coordinates>
+      <coordinates>42.346924</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>6196fc34fb833d80ce94dd197692a32a7f271f76</recordid>
+    <fields>
+      <latitud>42.370895</latitud>
+      <ultimaactualizacion>2014-05-20</ultimaactualizacion>
+      <localidad0>1179297447397</localidad0>
+      <identificador>1284195506206</identificador>
+      <datospersonales>Apex Ingeniería Industrial, S.A.</datospersonales>
+      <calle>C/Merindad de Valdeporres, 7. P.I. Polígono de Villalonquejar</calle>
+      <localidad>Burgos</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284195506206/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.370895</geolocalizacion>
+      <geolocalizacion>-3.714108</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público operativo</nombre_del_organismo>
+      <codigopostal>09001</codigopostal>
+      <longitud>-3.714108</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-3.714108</coordinates>
+      <coordinates>42.370895</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>9cb98e6033951e58a78458b2351bab2b40cc242b</recordid>
+    <fields>
+      <latitud>40.97364</latitud>
+      <ultimaactualizacion>2014-06-11</ultimaactualizacion>
+      <localidad0>1179298323820</localidad0>
+      <identificador>1284195511457</identificador>
+      <datospersonales>El Corte Inglés</datospersonales>
+      <calle>C/María Auxiliadora, 71</calle>
+      <localidad>Salamanca</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284195511457/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>40.97364</geolocalizacion>
+      <geolocalizacion>-5.657021</geolocalizacion>
+      <nombre_del_organismo>2 puntos de recarga exclusivos para clientes operativos de 10:00 a 22.00</nombre_del_organismo>
+      <codigopostal>37005</codigopostal>
+      <longitud>-5.657021</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-5.657021</coordinates>
+      <coordinates>40.97364</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>e58ba86b3179d71e4356130a33e1960180d0cdae</recordid>
+    <fields>
+      <latitud>42.0054752</latitud>
+      <ultimaactualizacion>2014-06-18</ultimaactualizacion>
+      <localidad0>1179298104011</localidad0>
+      <identificador>1284332129419</identificador>
+      <datospersonales>VICAUTO S.A.</datospersonales>
+      <calle>Calle Extremadura, 13</calle>
+      <localidad>Palencia</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284332129419/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.0054752</geolocalizacion>
+      <geolocalizacion>-4.519117</geolocalizacion>
+      <nombre_del_organismo>5 Puntos de recarga de uso privado tipo Mennekes</nombre_del_organismo>
+      <codigopostal>34004</codigopostal>
+      <longitud>-4.519117</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.519117</coordinates>
+      <coordinates>42.0054752</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>cf6ec03ab376ec63fb4cdaccec8eab3459eab3e1</recordid>
+    <fields>
+      <latitud>42.602451</latitud>
+      <ultimaactualizacion>2014-09-02</ultimaactualizacion>
+      <localidad0>1179297861059</localidad0>
+      <identificador>1284362560753</identificador>
+      <datospersonales>Parador de León</datospersonales>
+      <calle>Plaza de San Marcos, 1-3</calle>
+      <localidad>León</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284362560753/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.602451</geolocalizacion>
+      <geolocalizacion>-5.581137</geolocalizacion>
+      <nombre_del_organismo>3 puntos de recarga en el exterior. 2 Schuko 400V/16A y otro a 32A</nombre_del_organismo>
+      <codigopostal>24008</codigopostal>
+      <longitud>-5.581137</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-5.581137</coordinates>
+      <coordinates>42.602451</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>3d936125b5d41df1822f5e3f6eb6164697b51cc0</recordid>
+    <fields>
+      <latitud>41.638155</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284335014078</identificador>
+      <datospersonales>Museo de la Ciencia. Parking Exterior</datospersonales>
+      <calle>Avda. de Salamanca, 59</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284335014078/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.638155</geolocalizacion>
+      <geolocalizacion>-4.7461</geolocalizacion>
+      <nombre_del_organismo>1 punto de recarga público operativo Mennekes</nombre_del_organismo>
+      <codigopostal>47014</codigopostal>
+      <longitud>-4.7461</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.7461</coordinates>
+      <coordinates>41.638155</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>3783e216576aaaac8f677d1c212fd99d59f56016</recordid>
+    <fields>
+      <latitud>42.5857375</latitud>
+      <ultimaactualizacion>2014-05-21</ultimaactualizacion>
+      <localidad0>1179297861059</localidad0>
+      <identificador>1284236264331</identificador>
+      <datospersonales>Parking interior privado. Carrefour</datospersonales>
+      <calle>Avenida Alcalde Miguel Castaño, 95</calle>
+      <localidad>León</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284236264331/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.5857375</geolocalizacion>
+      <geolocalizacion>-5.55900446</geolocalizacion>
+      <nombre_del_organismo>1 Punto de recarga</nombre_del_organismo>
+      <codigopostal>24005</codigopostal>
+      <longitud>-5.55900446</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-5.55900446</coordinates>
+      <coordinates>42.5857375</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>8e6871ce0e0920a77fe063476b04c90972d2ec8b</recordid>
+    <fields>
+      <latitud>41.655857</latitud>
+      <ultimaactualizacion>2014-06-19</ultimaactualizacion>
+      <localidad0>1179469311668</localidad0>
+      <identificador>1284195482586</identificador>
+      <datospersonales>Archivo Municipal</datospersonales>
+      <calle>C/San Agustín</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284195482586/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.655857</geolocalizacion>
+      <geolocalizacion>-4.731101</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público operativo tipo Schuko</nombre_del_organismo>
+      <codigopostal>47003</codigopostal>
+      <longitud>-4.731101</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.731101</coordinates>
+      <coordinates>41.655857</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>5ed88c4abbeabe8c52a6325211e3dae511b11837</recordid>
+    <fields>
+      <latitud>41.573224</latitud>
+      <ultimaactualizacion>2014-09-11</ultimaactualizacion>
+      <localidad0>1179469192210</localidad0>
+      <identificador>1284365091937</identificador>
+      <datospersonales>Hospedería Convento de San Esteban antiguo Convento de San Francisco</datospersonales>
+      <calle>C/Convento</calle>
+      <localidad>San Esteban de Gormaz</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284365091937/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.573224</geolocalizacion>
+      <geolocalizacion>-3.203236</geolocalizacion>
+      <nombre_del_organismo>1 Punto de recarga en parking público soterrado</nombre_del_organismo>
+      <codigopostal>42330</codigopostal>
+      <longitud>-3.203236</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-3.203236</coordinates>
+      <coordinates>41.573224</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>322d8a648c1761b118bc5241b333ad265f5cda5c</recordid>
+    <fields>
+      <latitud>41.688079</latitud>
+      <ultimaactualizacion>2014-09-01</ultimaactualizacion>
+      <localidad0>1179297580282</localidad0>
+      <identificador>1284361927933</identificador>
+      <datospersonales>Restaurante el Refugio de Don Miguel</datospersonales>
+      <calle>C/ Boticas, 21</calle>
+      <localidad>Peñaranda de Duero</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284361927933/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.688079</geolocalizacion>
+      <geolocalizacion>-3.481594</geolocalizacion>
+      <nombre_del_organismo>1 punto de recarga en parking interior privado tipo Schuko</nombre_del_organismo>
+      <codigopostal>09410</codigopostal>
+      <longitud>-3.481594</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-3.481594</coordinates>
+      <coordinates>41.688079</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>5dc56eba725072eda2479ea7dd93b9c85f9b7ad9</recordid>
+    <fields>
+      <latitud>42.3557531999932</latitud>
+      <ultimaactualizacion>2014-05-21</ultimaactualizacion>
+      <localidad0>1179297447397</localidad0>
+      <identificador>1284323328601</identificador>
+      <datospersonales>AUTOVICAN S.L.</datospersonales>
+      <calle>C/ Alcalde Martín Cobos, 26</calle>
+      <localidad>Burgos</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284323328601/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.3557532</geolocalizacion>
+      <geolocalizacion>-3.6426115036</geolocalizacion>
+      <nombre_del_organismo>5 Puntos de recarga Mennekes marca Ingeteam</nombre_del_organismo>
+      <codigopostal>09007</codigopostal>
+      <longitud>-3.64261150360107</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-3.6426115036</coordinates>
+      <coordinates>42.3557532</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>1cdcea64794e9cc97a561b8a041d95d60e6c144a</recordid>
+    <fields>
+      <latitud>40.961056</latitud>
+      <ultimaactualizacion>2014-06-11</ultimaactualizacion>
+      <localidad0>1179298323820</localidad0>
+      <identificador>1284275356413</identificador>
+      <datospersonales>Campus de Ciencias.</datospersonales>
+      <calle>Facultad de Ciencias y Ciencias Químicas.</calle>
+      <localidad>Salamanca</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284275356413/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>40.961056</geolocalizacion>
+      <geolocalizacion>-5.671137</geolocalizacion>
+      <nombre_del_organismo>Un punto tipo Mennekes de Red de Recarga de Vehículo Eléctrico USAL (de uso exclusivo para la comunidad universitaria)</nombre_del_organismo>
+      <codigopostal>37008</codigopostal>
+      <longitud>-5.671137</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-5.671137</coordinates>
+      <coordinates>40.961056</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>cd2872c9f5cb8196877db88c0619328e63db9ff6</recordid>
+    <fields>
+      <latitud>41.661311</latitud>
+      <ultimaactualizacion>2014-06-19</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284204216475</identificador>
+      <datospersonales>Campus Miguel Delibes</datospersonales>
+      <calle>Paseo de Belén</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284204216475/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.661311</geolocalizacion>
+      <geolocalizacion>-4.707555</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público operativo tipo Mennekes</nombre_del_organismo>
+      <codigopostal>47011</codigopostal>
+      <longitud>-4.707555</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.707555</coordinates>
+      <coordinates>41.661311</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>68d874086fda9d590f7e15b0fd07d4b779dd20ec</recordid>
+    <fields>
+      <latitud>42.0054752</latitud>
+      <ultimaactualizacion>2014-06-11</ultimaactualizacion>
+      <localidad0>1179298104011</localidad0>
+      <identificador>1284332133708</identificador>
+      <datospersonales>VICAUTO S.A.</datospersonales>
+      <calle>Calle Extremadura, 13</calle>
+      <localidad>Palencia</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284332133708/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.0054752</geolocalizacion>
+      <geolocalizacion>-4.519117</geolocalizacion>
+      <nombre_del_organismo>5 Puntos de recarga de uso privado tipo Mennekes marca Ingeteam</nombre_del_organismo>
+      <codigopostal>34004</codigopostal>
+      <longitud>-4.519117</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.519117</coordinates>
+      <coordinates>42.0054752</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>6945e3b0b54da6df9637a19f2a7455b6ffd9ea32</recordid>
+    <fields>
+      <latitud>41.603847</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284204216233</identificador>
+      <datospersonales>PRAE</datospersonales>
+      <calle>Cañada Real, 306</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284204216233/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.603847</geolocalizacion>
+      <geolocalizacion>-4.762638</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público operativo tipo Mennekes</nombre_del_organismo>
+      <codigopostal>47008</codigopostal>
+      <longitud>-4.762638</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.762638</coordinates>
+      <coordinates>41.603847</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>3b8e6b5cf20683ff4678320cfe7b1001743c2542</recordid>
+    <fields>
+      <latitud>41.608782</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284204204547</identificador>
+      <datospersonales>Junta de Castilla y León. Presidencia</datospersonales>
+      <calle>C/ de Santiago Alba, 62</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284204204547/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.608782</geolocalizacion>
+      <geolocalizacion>-4.7485613</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público instalado tipo Mennekes</nombre_del_organismo>
+      <codigopostal>47008</codigopostal>
+      <longitud>-4.7485613</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.7485613</coordinates>
+      <coordinates>41.608782</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>9384d5a811e0874cd7d62a5e983514929c84071f</recordid>
+    <fields>
+      <latitud>40.665197</latitud>
+      <ultimaactualizacion>2014-05-09</ultimaactualizacion>
+      <identificador>1284206379337</identificador>
+      <datospersonales>Centro de Experimentación y Seguridad Vial de Mapfre (Cesvimap)</datospersonales>
+      <calle>Jorge Ruiz de Santayana, 20 (P.I. las Hervencias)</calle>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284206379337/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>40.665197</geolocalizacion>
+      <geolocalizacion>-4.683255</geolocalizacion>
+      <nombre_del_organismo>2 puntos de recarga privados pero permitidos a los clientes de la empresa operativos</nombre_del_organismo>
+      <codigopostal>05004</codigopostal>
+      <longitud>-4.683255</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.683255</coordinates>
+      <coordinates>40.665197</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>265a4456ae50de67c6cb1f3bc1447f5b78a21774</recordid>
+    <fields>
+      <latitud>41.064507</latitud>
+      <ultimaactualizacion>2014-05-20</ultimaactualizacion>
+      <localidad0>1179297191824</localidad0>
+      <identificador>1284323287282</identificador>
+      <datospersonales>Público</datospersonales>
+      <calle>Plaza del Real</calle>
+      <localidad>Arévalo</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284323287282/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.064507</geolocalizacion>
+      <geolocalizacion>-4.720646</geolocalizacion>
+      <nombre_del_organismo>1 toma tipo Mennekes con cable de adaptación para Yazaki, marca Mobility</nombre_del_organismo>
+      <codigopostal>05200</codigopostal>
+      <longitud>-4.720646</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.720646</coordinates>
+      <coordinates>41.064507</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>99c7cf7cf5e681e17e52d3bb1c12c176c4ccb11d</recordid>
+    <fields>
+      <latitud>42.01123132986402</latitud>
+      <ultimaactualizacion>2014-06-09</ultimaactualizacion>
+      <localidad0>1179298104011</localidad0>
+      <identificador>1284204140108</identificador>
+      <calle>Pza. Abilio Calderón</calle>
+      <localidad>Palencia</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284204140108/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.0112313299</geolocalizacion>
+      <geolocalizacion>-4.53072309494</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público operativo tipo Schuko marca Emerix</nombre_del_organismo>
+      <codigopostal>34001</codigopostal>
+      <longitud>-4.5307230949401855</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.53072309494</coordinates>
+      <coordinates>42.0112313299</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>9a7456fd8a85dfc93dfa1259d82866234946c54f</recordid>
+    <fields>
+      <latitud>42.003478</latitud>
+      <ultimaactualizacion>2014-11-17</ultimaactualizacion>
+      <localidad0>1179298104011</localidad0>
+      <identificador>1284204135838</identificador>
+      <datospersonales>Policía Municipal</datospersonales>
+      <calle>C/ Ortega y Gasset</calle>
+      <localidad>Palencia</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284204135838/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.003478</geolocalizacion>
+      <geolocalizacion>-4.520037</geolocalizacion>
+      <nombre_del_organismo>3 Puntos de recarga privados operativos: 1 tipo Schuko  (proyecto piloto) y otros dos tipo Schuko y Mennekes</nombre_del_organismo>
+      <codigopostal>34004</codigopostal>
+      <longitud>-4.520037</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.520037</coordinates>
+      <coordinates>42.003478</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>59dffe6b7e3d22a3a77813a4fafc01ea5a07b6b4</recordid>
+    <fields>
+      <latitud>41.649226</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284236307558</identificador>
+      <calle>C/ Doctrinos</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284236307558/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.649226</geolocalizacion>
+      <geolocalizacion>-4.730062</geolocalizacion>
+      <nombre_del_organismo>4 puntos de recarga públicos operativos tipo Schuko</nombre_del_organismo>
+      <codigopostal>47001</codigopostal>
+      <longitud>-4.730062</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.730062</coordinates>
+      <coordinates>41.649226</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>9c17919b1d348573e783f15006112f925f92473e</recordid>
+    <fields>
+      <latitud>41.618142</latitud>
+      <ultimaactualizacion>2014-06-19</ultimaactualizacion>
+      <localidad0>1179469311668</localidad0>
+      <identificador>1284195456372</identificador>
+      <datospersonales>Asociación Industrial Polígono San Cristóbal</datospersonales>
+      <calle>C/Galena, 41</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284195456372/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.618142</geolocalizacion>
+      <geolocalizacion>-4.707288</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público operativo tipo Schuko</nombre_del_organismo>
+      <codigopostal>47012</codigopostal>
+      <longitud>-4.707288</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.707288</coordinates>
+      <coordinates>41.618142</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>69d2414871dfe1023b34365cc5bb612a586f1ff9</recordid>
+    <fields>
+      <latitud>41.5184033</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469238603</localidad0>
+      <identificador>1284335019997</identificador>
+      <datospersonales>Parque Tecnológico de Boecillo</datospersonales>
+      <calle>Plaza del Parque. Las Arroyadas</calle>
+      <localidad>Boecillo</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284335019997/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.5184033</geolocalizacion>
+      <geolocalizacion>-4.7175181</geolocalizacion>
+      <nombre_del_organismo>1 Punto de recarga en parking exterior público tipo Mennekes</nombre_del_organismo>
+      <codigopostal>47007</codigopostal>
+      <longitud>-4.7175181</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.7175181</coordinates>
+      <coordinates>41.5184033</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>6be83f5be3e89358e5d3fa26b9ebc93e2f6916e3</recordid>
+    <fields>
+      <latitud>42.5893868</latitud>
+      <ultimaactualizacion>2014-05-21</ultimaactualizacion>
+      <localidad0>1179297861059</localidad0>
+      <identificador>1284195513722</identificador>
+      <datospersonales>El Corte Inglés</datospersonales>
+      <calle>Calle Fray Luis de León, 29</calle>
+      <localidad>León</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284195513722/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.5893868</geolocalizacion>
+      <geolocalizacion>-5.5685765</geolocalizacion>
+      <nombre_del_organismo>2 puntos de recarga exclusivos para clientes</nombre_del_organismo>
+      <codigopostal>24005</codigopostal>
+      <longitud>-5.5685765</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-5.5685765</coordinates>
+      <coordinates>42.5893868</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>be661b84e5092ca0f567a821a56e12e982d4d617</recordid>
+    <fields>
+      <latitud>42.005771</latitud>
+      <ultimaactualizacion>2014-06-11</ultimaactualizacion>
+      <localidad0>1179298104011</localidad0>
+      <identificador>1284204157686</identificador>
+      <calle>Pza. de Pío XII</calle>
+      <localidad>Palencia</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284204157686/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.005771</geolocalizacion>
+      <geolocalizacion>-4.531008</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público operativo tipo Schuko marca Emerix</nombre_del_organismo>
+      <codigopostal>34006</codigopostal>
+      <longitud>-4.531008</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.531008</coordinates>
+      <coordinates>42.005771</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>e3d512313b48f62391841e0c0fc96009361ca2d7</recordid>
+    <fields>
+      <latitud>41.6311258</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469309156</localidad0>
+      <identificador>1284335039174</identificador>
+      <datospersonales>BODEGA MATARROMERA, S.L.</datospersonales>
+      <calle>Carretera San Bernardo</calle>
+      <localidad>Valbuena de Duero</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284335039174/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.6311258</geolocalizacion>
+      <geolocalizacion>-4.2638541</geolocalizacion>
+      <nombre_del_organismo>2 puntos de recarga de uso privado tipo Schuko y Mennekes</nombre_del_organismo>
+      <codigopostal>47359</codigopostal>
+      <longitud>-4.2638541</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.2638541</coordinates>
+      <coordinates>41.6311258</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>11a79d626116f20f83087d917cfd1bc9984490fc</recordid>
+    <fields>
+      <latitud>42.5611754</latitud>
+      <ultimaactualizacion>2014-05-21</ultimaactualizacion>
+      <localidad0>1179297860755</localidad0>
+      <identificador>1284324611717</identificador>
+      <datospersonales>Fábrica de Cervezas La Cazurra</datospersonales>
+      <calle>Santa Olaja de la Ribera</calle>
+      <localidad>León</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284324611717/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.5611754</geolocalizacion>
+      <geolocalizacion>-5.552256</geolocalizacion>
+      <nombre_del_organismo>1 Punto de recarga Schuko</nombre_del_organismo>
+      <codigopostal>24199</codigopostal>
+      <longitud>-5.552256</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-5.552256</coordinates>
+      <coordinates>42.5611754</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>5c17e000e1cfaa11fa4221b229c38589efcfc945</recordid>
+    <fields>
+      <latitud>41.644318</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284195466276</identificador>
+      <calle>Pza. Colón</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284195466276/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.644318</geolocalizacion>
+      <geolocalizacion>-4.726862</geolocalizacion>
+      <nombre_del_organismo>2 puntos de recarga públicos operativos tipo Schuko y Mennekes</nombre_del_organismo>
+      <codigopostal>47004</codigopostal>
+      <longitud>-4.726862</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.726862</coordinates>
+      <coordinates>41.644318</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>74599096f4812c97ce9d22a2502ea6bccc9a4161</recordid>
+    <fields>
+      <latitud>41.515431</latitud>
+      <ultimaactualizacion>2014-06-18</ultimaactualizacion>
+      <localidad0>1179469492024</localidad0>
+      <identificador>1284334253104</identificador>
+      <datospersonales>Eroski Zamora. Centro Comercial Valderaduey</datospersonales>
+      <calle>Avd. Cardenal Cisneros.</calle>
+      <localidad>Zamora</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284334253104/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.515431</geolocalizacion>
+      <geolocalizacion>-5.747545</geolocalizacion>
+      <nombre_del_organismo>2 puntos de Red de Recarga de Vehículo de uso público</nombre_del_organismo>
+      <codigopostal>49025</codigopostal>
+      <longitud>-5.747545</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-5.747545</coordinates>
+      <coordinates>41.515431</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>d8f5e30bfea5b4b5a4746eab68d82748da192f61</recordid>
+    <fields>
+      <latitud>41.612927</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284195460226</identificador>
+      <datospersonales>Centro Deportivo Covaresa (CDO)</datospersonales>
+      <calle>C/ Felipe Sánchez Román, s/n</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284195460226/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.612927</geolocalizacion>
+      <geolocalizacion>-4.749379</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público instalado tipo Schuko</nombre_del_organismo>
+      <codigopostal>47008</codigopostal>
+      <longitud>-4.749379</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.749379</coordinates>
+      <coordinates>41.612927</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>306da9fbdbbf60be72addf6ce04301610892bb34</recordid>
+    <fields>
+      <latitud>41.6095813</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284335034843</identificador>
+      <datospersonales>VALLADOLID AUTOMOVIL, S.A.</datospersonales>
+      <calle>Carretera de Madrid, 186</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284335034843/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.6095813</geolocalizacion>
+      <geolocalizacion>-4.7257161</geolocalizacion>
+      <nombre_del_organismo>3 puntos de recarga de uso privado tipo Schuko y Mennekes</nombre_del_organismo>
+      <codigopostal>47008</codigopostal>
+      <longitud>-4.7257161</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.7257161</coordinates>
+      <coordinates>41.6095813</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>f2dbd4ba26634b3fd8526ce6cfb1e45665da987d</recordid>
+    <fields>
+      <latitud>41.661522</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284187838164</identificador>
+      <datospersonales>Jefatura de Polìcía Municipal</datospersonales>
+      <calle>Avda. de Burgos, 3</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284187838164/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.661522</geolocalizacion>
+      <geolocalizacion>-4.733238</geolocalizacion>
+      <nombre_del_organismo>3 puntos de recarga para motos de uso privado instalados tipo Schuko (exclusivos de la policía)</nombre_del_organismo>
+      <codigopostal>47009</codigopostal>
+      <longitud>-4.733238</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.733238</coordinates>
+      <coordinates>41.661522</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>57d98248c083249fc3bdabb1543834546616faac</recordid>
+    <fields>
+      <latitud>41.637593</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284195471469</identificador>
+      <datospersonales>Museo de la Ciencia. Parking Interior</datospersonales>
+      <calle>Avda. de Salamanca, 59</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284195471469/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.637593</geolocalizacion>
+      <geolocalizacion>-4.746121</geolocalizacion>
+      <nombre_del_organismo>2 puntos de recarga públicos operativos Mennekes y Schuko</nombre_del_organismo>
+      <codigopostal>47014</codigopostal>
+      <longitud>-4.746121</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.746121</coordinates>
+      <coordinates>41.637593</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>d72016e184f151e5113c3dc05b42cf25a2cf6dba</recordid>
+    <fields>
+      <latitud>41.6147895</latitud>
+      <ultimaactualizacion>2014-06-19</ultimaactualizacion>
+      <localidad0>1179469235248</localidad0>
+      <identificador>1284204211772</identificador>
+      <datospersonales>Centro de Soluciones Empresariales de Castilla y León</datospersonales>
+      <calle>C/Jacinto Benavente, 2</calle>
+      <localidad>Arroyo de la Encomienda</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284204211772/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.6147895</geolocalizacion>
+      <geolocalizacion>-4.7963969</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público instalado Mennekes</nombre_del_organismo>
+      <codigopostal>47195</codigopostal>
+      <longitud>-4.7963969</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.7963969</coordinates>
+      <coordinates>41.6147895</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>87adee747127e2fb19fed30e6230dc88d72bdd9e</recordid>
+    <fields>
+      <latitud>40.969011</latitud>
+      <ultimaactualizacion>2014-06-11</ultimaactualizacion>
+      <localidad0>1179298323820</localidad0>
+      <identificador>1284274602418</identificador>
+      <datospersonales>Edificio de Filosofía, Economía y  Empresa y Ciencias Sociales.</datospersonales>
+      <calle>Campus Miguel de Unamuno</calle>
+      <localidad>Salamanca</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284274602418/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>40.969011</geolocalizacion>
+      <geolocalizacion>-5.678228</geolocalizacion>
+      <nombre_del_organismo>2 puntos de recarga tipo Mennekes de uso exclusivo para la comunidad universitaria</nombre_del_organismo>
+      <codigopostal>37071</codigopostal>
+      <longitud>-5.678228</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-5.678228</coordinates>
+      <coordinates>40.969011</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>7e86fd4da327c660cbdc23d7f2d5d195d6616e21</recordid>
+    <fields>
+      <latitud>42.012918</latitud>
+      <ultimaactualizacion>2014-06-02</ultimaactualizacion>
+      <localidad0>1179298104011</localidad0>
+      <identificador>1284195515606</identificador>
+      <calle>C/Lola de la Fuente</calle>
+      <localidad>Palencia</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284195515606/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.012918</geolocalizacion>
+      <geolocalizacion>-4.516041</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público operativo tipo Schuko marca Ingeteam</nombre_del_organismo>
+      <codigopostal>34004</codigopostal>
+      <longitud>-4.516041</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.516041</coordinates>
+      <coordinates>42.012918</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>2b91772550cab2c91b742f4993b26ce8528b62ce</recordid>
+    <fields>
+      <latitud>42.3400917</latitud>
+      <ultimaactualizacion>2014-08-27</ultimaactualizacion>
+      <localidad0>1179297447397</localidad0>
+      <identificador>1284195510850</identificador>
+      <datospersonales>Museo de la Evolución Humana</datospersonales>
+      <calle>Paseo Sierra de Atapuerca, s/n</calle>
+      <localidad>Burgos</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284195510850/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.3400917</geolocalizacion>
+      <geolocalizacion>-3.6965922</geolocalizacion>
+      <nombre_del_organismo>4 puntos de recarga tipo Schuko y Scame marca Scheneider Electric en parking público soterrado</nombre_del_organismo>
+      <codigopostal>09002</codigopostal>
+      <longitud>-3.6965922</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-3.6965922</coordinates>
+      <coordinates>42.3400917</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>769cfa23d0cd99416f74582a26e644cac8489d67</recordid>
+    <fields>
+      <latitud>41.998499</latitud>
+      <ultimaactualizacion>2014-09-11</ultimaactualizacion>
+      <localidad0>1179469338450</localidad0>
+      <identificador>1284365154737</identificador>
+      <datospersonales>Parador de Benavente</datospersonales>
+      <calle>Pº de la Mota, s/n</calle>
+      <localidad>Benavente</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284365154737/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.998499</geolocalizacion>
+      <geolocalizacion>-5.681021</geolocalizacion>
+      <nombre_del_organismo>1 punto de Recarga 400V/32A</nombre_del_organismo>
+      <codigopostal>49600</codigopostal>
+      <longitud>-5.681021</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-5.681021</coordinates>
+      <coordinates>41.998499</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>8b09895d9a3193d863d280884087e75948767f71</recordid>
+    <fields>
+      <latitud>42.011161</latitud>
+      <ultimaactualizacion>2014-06-09</ultimaactualizacion>
+      <localidad0>1179298104011</localidad0>
+      <identificador>1284204146696</identificador>
+      <datospersonales>Parque Comercial Arambol</datospersonales>
+      <calle>Avda. de Brasilia</calle>
+      <localidad>Palencia</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284204146696/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.011161</geolocalizacion>
+      <geolocalizacion>-4.519173</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público operativo tipo Schuko marca Ingeteam</nombre_del_organismo>
+      <codigopostal>34004</codigopostal>
+      <longitud>-4.519173</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.519173</coordinates>
+      <coordinates>42.011161</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>ec27f66670778aa0ff38e7deeab6556fc0bfad8f</recordid>
+    <fields>
+      <latitud>40.627566</latitud>
+      <ultimaactualizacion>2014-05-15</ultimaactualizacion>
+      <localidad0>1179297192941</localidad0>
+      <identificador>1284323285654</identificador>
+      <datospersonales>Parking exterior privado. Naturávila</datospersonales>
+      <calle>Antigua carretera Cebreros km 3</calle>
+      <localidad>Ávila</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284323285654/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>40.627566</geolocalizacion>
+      <geolocalizacion>-4.647871</geolocalizacion>
+      <nombre_del_organismo>1 toma tipo Mennekes con cable de adaptación para Yazaki</nombre_del_organismo>
+      <codigopostal>05200</codigopostal>
+      <longitud>-4.647871</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.647871</coordinates>
+      <coordinates>40.627566</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>58be6323d8fb5d0609b7f29bfe80ed3e19222713</recordid>
+    <fields>
+      <latitud>41.657981</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284335030706</identificador>
+      <datospersonales>Universidad de Valladolid. Aulario</datospersonales>
+      <calle>Paseo del Cauce</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284335030706/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.657981</geolocalizacion>
+      <geolocalizacion>-4.710118</geolocalizacion>
+      <nombre_del_organismo>1 punto de recarga público operativos tipo Mennekes</nombre_del_organismo>
+      <codigopostal>47014</codigopostal>
+      <longitud>-4.710118</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.710118</coordinates>
+      <coordinates>41.657981</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>2f34105985ec55d18959dc51e312f09a2b71f6a9</recordid>
+    <fields>
+      <latitud>42.00546</latitud>
+      <ultimaactualizacion>2014-05-23</ultimaactualizacion>
+      <localidad0>1179298104011</localidad0>
+      <identificador>1284195514702</identificador>
+      <calle>Avda. de la Comunidad Europea</calle>
+      <localidad>Palencia</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284195514702/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.00546</geolocalizacion>
+      <geolocalizacion>-4.509472</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público operativo tipo Mennekes marca Emerix</nombre_del_organismo>
+      <codigopostal>34004</codigopostal>
+      <longitud>-4.509472</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.509472</coordinates>
+      <coordinates>42.00546</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>9753c0b990229f7c6c721f48c517c1f727bda30c</recordid>
+    <fields>
+      <latitud>41.640968</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284187835985</identificador>
+      <datospersonales>Casa de la India</datospersonales>
+      <calle>C/ Puente Colgante, 13</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284187835985/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.640968</geolocalizacion>
+      <geolocalizacion>-4.732922</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público operativo tipo Schuko</nombre_del_organismo>
+      <codigopostal>47007</codigopostal>
+      <longitud>-4.732922</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.732922</coordinates>
+      <coordinates>41.640968</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>c235b4f2623efe1292ee954e09462631b05ec0ac</recordid>
+    <fields>
+      <latitud>41.6419267</latitud>
+      <ultimaactualizacion>2014-06-20</ultimaactualizacion>
+      <localidad0>1179469313463</localidad0>
+      <identificador>1284204187299</identificador>
+      <datospersonales>Consejería de Educación</datospersonales>
+      <calle>Avda. del Real Valladolid</calle>
+      <localidad>Valladolid</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284204187299/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>41.6419267</geolocalizacion>
+      <geolocalizacion>-4.7472999</geolocalizacion>
+      <nombre_del_organismo>Punto de recarga público instalado tipo Mennekes</nombre_del_organismo>
+      <codigopostal>47014</codigopostal>
+      <longitud>-4.7472999</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-4.7472999</coordinates>
+      <coordinates>41.6419267</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+  <row>
+    <datasetid>puntos-de-recarga-del-vehiculo-electrico</datasetid>
+    <recordid>20abc42d92b58f4d992be1b11737cd7a8a02afad</recordid>
+    <fields>
+      <latitud>42.595488</latitud>
+      <ultimaactualizacion>2014-09-11</ultimaactualizacion>
+      <localidad0>1179297861059</localidad0>
+      <identificador>1284362562764</identificador>
+      <datospersonales>Centro Desmostrador de Energías Renovables</datospersonales>
+      <calle>Paseo Papalaguinda, 2</calle>
+      <localidad>León</localidad>
+      <enlace_al_contenido>https://vehiculoelectrico.jcyl.es/web/jcyl/VehiculoElectrico/es/Plantilla100Detalle/1284183822782/_/1284362562764/DirectorioPadre</enlace_al_contenido>
+      <geolocalizacion>42.595488</geolocalizacion>
+      <geolocalizacion>-5.578734</geolocalizacion>
+      <nombre_del_organismo>3 puntos de recarga Schuko</nombre_del_organismo>
+      <codigopostal>24004</codigopostal>
+      <longitud>-5.578734</longitud>
+    </fields>
+    <geometry>
+      <type>Point</type>
+      <coordinates>-5.578734</coordinates>
+      <coordinates>42.595488</coordinates>
+    </geometry>
+    <record_timestamp>2020-01-14T21:55:00.994+01:00</record_timestamp>
+  </row>
+</root>

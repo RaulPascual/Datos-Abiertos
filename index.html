@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Puntos de carga</title>
+    
+<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
+   integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
+   <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
+   integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
+   crossorigin=""></script>
+
+  
+</head>
+<body>
+
+    <header>
+        <p id="titulo">Puntos de recarga para vehículos eléctricos</p>
+        <div class="provincia" id="Salamanca">Salamanca</div>
+        <div class="provincia" id="Palencia">Palencia</div>
+        <div class="provincia" id="Leon">León</div>
+        <div class="provincia" id="Valladolid">Valladolid</div>
+        <div class="provincia" id="Segovia">Segovia</div>
+        <div class="provincia" id="Burgos">Burgos </div>
+        <div class="provincia" id="Avila">Ávila</div>
+        <div class="provincia" id="Zamora">Zamora</div>
+        <div class="provincia" id="Soria">Soria</div>
+    </header>
+
+
+
+    <div id="tabla"></div>
+    <br>
+    <p id="puestosTotales"></p>
+    <br>
+    <p id="mensaje"></p>
+    <br>
+    <div id="mapid"></div>
+    <br>
+    
+  
+    <footer>
+        <p>Realizado en Enero de 2020, como práctica de DAW</p>
+    </footer>
+    <script src="./script.js"></script>
+</body>
+</html>
